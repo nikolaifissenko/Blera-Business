@@ -10,7 +10,13 @@ Assume a 4-day / 3-night small-group package: seasonal activity (e.g., tomato sa
 
 Recommended starting price: **€1,100/guest, all-inclusive** — covers lodging, all meals (whether at partner restaurants or with local families), guiding/transport during the trip, and all activity/artisan fees. The guest's only extra cost is getting to/from Blera and personal spending (souvenirs, drinks beyond what's included, etc.). All-inclusive pricing is also a strong selling point for this type of niche travel — guests don't want to do logistics, they want to show up and be taken care of.
 
-**Note on licensing — using local restaurants helps you:** if meals happen at established local restaurants/agriturismi (rather than you personally cooking/serving food to guests), the food-handling licensing burden shifts mostly to those businesses, which already hold the required permits. You'd mainly need to handle: (a) your own business/tourism licensing (organizing and guiding groups), and (b) simple partnership agreements with the restaurants/families for group bookings and pricing. This is something to confirm with a local commercialista in Phase 4, but it meaningfully simplifies your own compliance load versus running a "cooking school" model yourself.
+**Note on licensing — informal "Nonna's house" cooking classes:** this is the heart of the experience, but it's also exactly the kind of activity Italian food-safety/tourism rules are designed to regulate (cooking for paying foreign guests in a private home, repeatedly, as part of a commercial package). "Informal" works for a one-off favor between friends — once you're charging guests as part of a paid product, it stops being informal in the eyes of the law, even if it feels casual on the day.
+
+Two practical paths, to weigh with a local commercialista in Phase 4:
+1. **Keep it genuinely informal and low-frequency** — e.g., positioned/structured as a "meal with a local family" rather than a formal class, at a scale that stays under whatever thresholds Italian home-restaurant rules allow (Italy does have a registered framework for this — *agriturismo* and *home restaurant / cesarine*-style setups — worth researching whether Nonna could register under one of these).
+2. **Channel it through an already-licensed venue or person** — e.g., Nonna partners with or operates under a licensed agriturismo/restaurant's permit, or the "class" happens at a partner restaurant's kitchen with Nonna as the guest teacher. This keeps the authentic feel while putting the legal/compliance weight on an entity that already has it sorted.
+
+Either way, this is a compliance risk worth resolving *before* scaling — not something to leave informal indefinitely, since it's one of the activities most likely to draw scrutiny (food + paying tourists + a private home).
 
 ### Per-guest cost breakdown (estimate)
 | Item | Cost |
