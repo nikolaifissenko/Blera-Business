@@ -2,13 +2,24 @@
 
 This complements `BUSINESS_PLAN.md` with concrete numbers: pricing, costs, margins, and revenue projections across the first three years. All figures are estimates to plan around — refine them once the pilot gives you real costs.
 
+## 0. Core principle: low volume, high value, protected authenticity
+
+The single biggest risk to this business isn't lack of demand — it's success that degrades the thing people are paying for. Blera's value *is* that it's small, real, and unspoiled. The model below is deliberately built around **scarcity and depth, not throughput**:
+
+- **Cap capacity on purpose.** Even at full maturity, this plan targets ~15–20 groups/year — not 30+. That's a ceiling you choose to protect, not a limit you're stuck at.
+- **Price for scarcity.** Because you're not chasing volume, you can (and should) price toward the top of the range (€1,300–€1,800+) — guests are paying for "one of very few groups admitted this year," which is a stronger story than "cheap and available."
+- **Keep activities embedded in real local life**, not staged for tourists — olive picking with the people who actually pick olives, lunch cooked by Nonna in the field as she'd actually cook it, hikes to the Etruscan tombs/Lago di Vico/Villa Lante/Tarquinia/Viterbo as a local would show a friend around, not as a bus tour. The moment activities start being performed *for* tourists rather than *with* locals, the magic — and the differentiation — erodes.
+- **Let scarcity and story carry the margin**, not headcount. A model that depends on "more groups, more often" inevitably pressures you to compromise on authenticity to meet demand. A model where the cap is fixed and the price is premium lets you protect Blera *and* make excellent money — this is effectively a luxury-niche business, not a mass-tourism one.
+
+This principle should guide every other number in this document: the projections below intentionally plateau rather than grow indefinitely.
+
 ## 1. Pricing the experience
 
 Assume a 4-day / 3-night small-group package: seasonal activity (e.g., tomato sauce day, olive harvest), guided cultural/nature excursions, meals with local families, and lodging via partner BnBs.
 
-**Per-guest price: €950–€1,400** (positioned as a premium niche experience, not a budget tour — comparable culinary/cultural immersion trips in Italy run €800–€2,000+ per person)
+**Per-guest price: €1,300–€1,800** (deliberately positioned at the top of the niche-immersion range, not as a budget or mid-market tour — this is a "we only host a handful of groups a year" product, and the price should say so. Comparable ultra-niche culinary/cultural immersion trips in Italy run €1,000–€2,500+ per person; given the breadth of this region — Etruscan sites, Lago di Vico, Villa Lante, Palazzo Farnese, Viterbo, Tarquinia, the coast — there's room to anchor at the higher end without overpromising.)
 
-Recommended starting price: **€1,100/guest, all-inclusive** — covers lodging, all meals (whether at partner restaurants or with local families), guiding/transport during the trip, and all activity/artisan fees. The guest's only extra cost is getting to/from Blera and personal spending (souvenirs, drinks beyond what's included, etc.). All-inclusive pricing is also a strong selling point for this type of niche travel — guests don't want to do logistics, they want to show up and be taken care of.
+Recommended starting price: **€1,400/guest, all-inclusive** — covers lodging, all meals (whether at partner restaurants or with local families), guiding/transport during the trip, and all activity/artisan fees. The guest's only extra cost is getting to/from Blera and personal spending (souvenirs, drinks beyond what's included, etc.). All-inclusive pricing is also a strong selling point for this type of niche travel — guests don't want to do logistics, they want to show up and be taken care of.
 
 **Note on licensing — informal "Nonna's house" cooking classes:** this is the heart of the experience, but it's also exactly the kind of activity Italian food-safety/tourism rules are designed to regulate (cooking for paying foreign guests in a private home, repeatedly, as part of a commercial package). "Informal" works for a one-off favor between friends — once you're charging guests as part of a paid product, it stops being informal in the eyes of the law, even if it feels casual on the day.
 
@@ -21,41 +32,44 @@ Either way, this is a compliance risk worth resolving *before* scaling — not s
 ### Per-guest cost breakdown (estimate)
 | Item | Cost |
 |---|---|
-| Lodging (3 nights, partner BnB rate) | €150 |
-| Meals & hosting fees to local families | €180 |
-| Local guiding/transport | €100 |
-| Artisan/activity fees (olive press, wine cellar, etc.) | €70 |
-| Marketing & booking overhead (allocated) | €50 |
-| **Total cost per guest** | **~€550** |
+| Lodging (3 nights, partner BnB rate) | €170 |
+| Meals & local hosting fees (incl. Nonna's field lunch / panonto) | €220 |
+| Local guiding/transport (incl. day trips to Lago di Vico, Villa Lante, Tarquinia, etc.) | €140 |
+| Activity fees (olive picking access, equipment, etc.) | €90 |
+| Marketing & booking overhead (allocated) | €60 |
+| **Total cost per guest** | **~€680** |
 
-**Gross margin per guest: ~€550 (≈50%)**
+**Gross margin per guest: ~€720 (≈51%)**
 
 ## 2. Group economics
 
-Assume groups of **6 guests** average (range 4–10):
+Assume groups of **8 guests** average (range 6–10 — small enough to stay intimate, large enough to be efficient):
 
-- Revenue per group: 6 × €1,100 = **€6,600**
-- Cost per group: 6 × €550 = **€3,300**
-- **Gross profit per group: ~€3,300**
+- Revenue per group: 8 × €1,400 = **€11,200**
+- Cost per group: 8 × €680 = **€5,440**
+- **Gross profit per group: ~€5,760**
 
 This profit is split between you and Maria Grazia per your partnership agreement (e.g., 50/50, or weighted by role/investment — to be defined in Phase 0).
 
-## 3. Revenue projections by year
+## 3. Revenue projections by year (deliberately capped growth)
+
+These projections intentionally **plateau** rather than grow indefinitely — the cap is a feature, not a limitation. The goal is to reach a sustainable, high-margin scale and *stay there*, rather than scale until Blera starts to feel like a destination instead of a home.
 
 ### Year 1 — Pilot & launch (Phases 1–3)
-- Run 1 pilot (discounted/break-even) + 3–5 paying groups in the second half of the year
-- Estimate: **5 groups × €6,600 = ~€33,000 revenue**, **~€16,500 gross profit**
-- Realistically, expect to reinvest most of this into building the website, marketing, and operations
+- Run 1 pilot (discounted/break-even) + 3–4 paying groups in the second half of the year
+- Estimate: **4 groups × €11,200 = ~€44,800 revenue**, **~€23,000 gross profit**
+- Expect to reinvest much of this into building the website, marketing, and operations
 
 ### Year 2 — Established calendar (Phases 4–5)
-- 2–3 seasonal experiences running, ~1–2 groups per month in season (assume 8-month season)
-- Estimate: **15 groups × €6,600 = ~€99,000 revenue**, **~€49,500 gross profit**
+- 2–3 seasonal experiences running, roughly 1 group per month in season (8-month season)
+- Estimate: **8 groups × €11,200 = ~€89,600 revenue**, **~€46,000 gross profit**
 
-### Year 3 — Growth (Phase 6)
-- More frequent departures, larger group sizes, possibly a second guide/host trained
-- Estimate: **30 groups × €6,600 = ~€198,000 revenue**, **~€99,000 gross profit**
+### Year 3+ — Mature, steady-state (Phase 6 — deliberate ceiling)
+- Settle into a sustainable rhythm: ~15–18 groups/year, never more — this is the target steady state, chosen to protect Blera rather than maximize throughput
+- Estimate: **16 groups × €11,200 = ~€179,200 revenue**, **~€92,000 gross profit**
+- From here, growth in *income* should come from the levers in Section 6 (premium pricing, add-ons, off-season products) — not from running more groups through the town
 
-*(These are directional planning estimates, not guarantees — actual results depend on demand, seasonality, and operational capacity.)*
+*(These are directional planning estimates, not guarantees — actual results depend on demand, seasonality, and operational capacity. Note that ~€92,000/year in gross profit at a deliberately capped scale is a strong outcome for a two-person partnership built around a few weeks of hosting per season.)*
 
 ## 4. Startup costs (one-time, Phase 0–2)
 
@@ -72,14 +86,18 @@ This is a relatively low-capital business to start — the main investment is ti
 
 ## 5. Break-even
 
-At ~€3,300 gross profit per group, you'd cover a ~€10,000 startup investment after roughly **3–4 successful groups** — achievable within Year 1 if the pilot goes well.
+At ~€5,760 gross profit per group, you'd cover a ~€10,000 startup investment after roughly **2 successful groups** — realistically achievable within Year 1.
 
-## 6. Revenue growth levers (beyond more groups)
+## 6. Revenue growth levers that DON'T require running more groups
 
-- **Premium add-ons:** private/extended stays, special events (e.g., a Christmas-only or harvest-only premium package)
-- **Multi-region itineraries:** combine Blera with Rome or other Lazio towns for a longer, higher-priced package
-- **Off-season income:** virtual experiences (e.g., a guided online cooking session) or merchandise (olive oil, wine, sauces sourced from your partner families) sold to past guests
-- **B2B partnerships:** culinary schools, travel agencies, or corporate retreats booking exclusive group experiences at a premium rate
+Since group volume is intentionally capped, income growth should come from increasing the value of each departure and from adjacent income streams — not from flooding Blera with visitors:
+
+- **Premium pricing over time:** as reputation, reviews, and demand build, raise the price (€1,400 → €1,800+) rather than the headcount. Scarcity justifies — and often increases — willingness to pay.
+- **Premium add-ons:** private/extended stays, exclusive small-batch experiences (e.g., a Christmas-only or harvest-only departure with a higher price tag and even smaller group)
+- **Multi-region itineraries:** combine Blera with Rome, Lago di Vico, Villa Lante, Tarquinia, or the coast for a longer, higher-priced package — spreads value across the region rather than concentrating pressure on the town itself
+- **Off-season income (zero impact on Blera):** virtual experiences (e.g., a guided online cooking session with Nonna), or selling merchandise (olive oil, wine, sauces from partner families) to past guests — pure margin, no additional footfall
+- **B2B / high-value bookings:** culinary schools, small travel agencies, or corporate retreats booking an entire exclusive departure at a premium rate — fewer, larger-ticket bookings instead of more, smaller ones
+- **Brand & storytelling value:** a strong, well-told brand lets you be selective about *which* groups you accept (the right kind of traveler — respectful, curious, small-footprint) rather than accepting anyone who can pay — itself a form of protecting Blera
 
 ## 7. Key assumptions to validate during the pilot
 
