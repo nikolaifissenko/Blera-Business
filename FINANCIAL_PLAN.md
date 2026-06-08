@@ -8,7 +8,9 @@ Assume a 4-day / 3-night small-group package: seasonal activity (e.g., tomato sa
 
 **Per-guest price: €950–€1,400** (positioned as a premium niche experience, not a budget tour — comparable culinary/cultural immersion trips in Italy run €800–€2,000+ per person)
 
-Recommended starting price: **€1,100/guest**
+Recommended starting price: **€1,100/guest, all-inclusive** — covers lodging, all meals (whether at partner restaurants or with local families), guiding/transport during the trip, and all activity/artisan fees. The guest's only extra cost is getting to/from Blera and personal spending (souvenirs, drinks beyond what's included, etc.). All-inclusive pricing is also a strong selling point for this type of niche travel — guests don't want to do logistics, they want to show up and be taken care of.
+
+**Note on licensing — using local restaurants helps you:** if meals happen at established local restaurants/agriturismi (rather than you personally cooking/serving food to guests), the food-handling licensing burden shifts mostly to those businesses, which already hold the required permits. You'd mainly need to handle: (a) your own business/tourism licensing (organizing and guiding groups), and (b) simple partnership agreements with the restaurants/families for group bookings and pricing. This is something to confirm with a local commercialista in Phase 4, but it meaningfully simplifies your own compliance load versus running a "cooking school" model yourself.
 
 ### Per-guest cost breakdown (estimate)
 | Item | Cost |
