@@ -81,13 +81,3 @@ Un risultato davvero solido per un progetto gestito in poche settimane mirate di
 - **Un piccolo viaggio pilota** — da realizzare con un gruppo ristretto e amichevole, per imparare cosa funziona e costruire la nostra storia e i materiali di presentazione
 - **L'unico vero costo iniziale è il commercialista** — il resto si costruisce mettendoci d'accordo con le persone e le attività del territorio, non investendo capitale
 
-## 7. La prima conversazione da fare
-
-Prima di ogni altra cosa, bisogna sedersi e definire insieme:
-1. Come dividere ruoli e responsabilità
-2. Come dividere profitti e decisioni
-3. Come dovrebbe essere il primo viaggio pilota, e quando organizzarlo
-
----
-
-*Questo è un punto di partenza per la conversazione — non un piano definitivo. L'obiettivo è costruirlo insieme, partendo da ciò che solo chi conosce davvero Blera e la sua gente può sapere.*
