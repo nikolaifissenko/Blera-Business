@@ -26,7 +26,18 @@ Da soli, nessuno dei due potrebbe farlo. Insieme, è un progetto completo.
 
 ## 3. Come si presenta l'esperienza
 
-Un viaggio di **4 giorni, in piccoli gruppi (6–10 persone)**, costruito attorno a un'attività simbolo per ogni periodo dell'anno. Questo è un **menu di possibilità da validare insieme, una per una** — sappiamo bene che alcune tradizioni si stanno perdendo (vendemmia ridotta a una giornata, lavorazione del maiale sempre più rara e legata a gennaio-febbraio, mietitura a mano ormai introvabile): per questo partiamo da ciò che è realisticamente disponibile oggi, e costruiamo il calendario insieme a chi conosce davvero chi c'è ancora e chi si presterebbe:
+**Il punto di partenza concreto — quattro esperienze reali, già confermate:**
+
+1. 🫒 **Raccolta delle olive** — l'unica attività di campagna su cui possiamo contare fin da subito
+2. 🥓 **Miriam (e suo figlio) — prosciutto/affettati** — degustazione ed esperienza di produzione
+3. 🧀 **Costantino — formaggi** — degustazione ed esperienza di produzione
+4. 👜 **Renzo — laboratorio di borse in pelle** — un'idea nata da un'osservazione concreta: nei tour a Roma, gli americani chiedono sempre una borsa di pelle italiana autentica. Far realizzare agli ospiti la propria borsa con Renzo trasforma una semplice "visita all'artigiano" in esattamente il tipo di esperienza-souvenir che questo pubblico già desidera — probabilmente una delle attività più facili da vendere dell'intero programma
+
+**Questo è il programma reale da cui partire**: piccolo, concreto, già verificato con le persone coinvolte — non un calendario teorico di 12 mesi. Il resto del calendario stagionale (asparagi, vendemmia, Natale, carciofi, ecc.) resta un obiettivo a lungo termine da validare e aggiungere strada facendo, non un requisito per partire.
+
+---
+
+Un viaggio di **4 giorni, in piccoli gruppi (6–10 persone)**, può comunque crescere nel tempo includendo un'attività simbolo per ogni periodo dell'anno — ecco la visione a tendere, da costruire pian piano: Questo è un **menu di possibilità da validare insieme, una per una** — sappiamo bene che alcune tradizioni si stanno perdendo (vendemmia ridotta a una giornata, lavorazione del maiale sempre più rara e legata a gennaio-febbraio, mietitura a mano ormai introvabile): per questo partiamo da ciò che è realisticamente disponibile oggi, e costruiamo il calendario insieme a chi conosce davvero chi c'è ancora e chi si presterebbe:
 
 - **Marzo–Giugno (primavera)** — Raccolta degli asparagi selvatici nei boschi della Tuscia (tradizione ancora viva, legata alla cucina pasquale — ottimo punto di partenza)
 - **Gennaio–Febbraio (finestra stretta, da verificare)** — Lavorazione tradizionale del maiale, se troviamo chi ancora la pratica

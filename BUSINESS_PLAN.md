@@ -12,6 +12,14 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 
 **The implication:** the calendar below should be treated as a **menu of possibilities to validate one by one** — not a guaranteed year-round program. Some activities may need to be dropped, replaced, or reframed (e.g., "a day of vendemmia" rather than "the full grape season", "traditional-style cooking" rather than "Nonna's house") once we know who is realistically willing and able to host them, and at what cost. This validation is exactly what Phase 1 (below) is for.
 
+**UPDATE — concrete starting point agreed with Maria Grazia:** rather than waiting to validate the full 12-month calendar, we're starting the pilot/launch design around **four confirmed, real building blocks**:
+1. **Olive harvest** — the one genuine field/agricultural activity we can reliably count on right now
+2. **Miriam's son — prosciutto/cured meats** — tasting and production experience
+3. **Costantino — cheese (formaggi)** — tasting and production experience
+4. **Renzo — leatherwork, reframed around bag-making specifically** — based on direct market signal: when running tours in Rome, American guests consistently ask for an authentic Italian leather bag. Having Renzo lead a hands-on session where guests make their own bag turns a generic "craft visit" into exactly the kind of high-demand souvenir-experience this audience already wants — a strong differentiator and likely one of the most marketable single activities in the whole offer.
+
+This is now the **real starting program** — small, concrete, fully validated with the people involved — rather than a theoretical 12-month menu. The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
+
 **Year-round agricultural calendar — candidate activities to validate (not a finished program):**
 - **March–June:** wild asparagus foraging in the Tuscia woods (a real, still-living local Easter-season tradition — strong candidate), spring planting
 - **January–February only, narrow window:** traditional pig butchering and curing — *to validate: does anyone still do this the traditional way, and would they host guests?*
