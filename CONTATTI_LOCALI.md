@@ -8,9 +8,10 @@ Obiettivo di questa fase: trasformare la rete di conoscenze a Blera in un primo 
 |---|---|---|
 | Maria Grazia | Partner — relazioni locali, conoscenza del territorio | co-fondatrice |
 | Cristina Damiani | Manager / coordinamento operativo | da coinvolgere su come si inserisce nei ruoli con Maria Grazia |
-| Miriam (e il figlio) | Affettati | il figlio produce gli affettati |
-| Costantino | Formaggi | esperienza casaro |
-| Renzo | Lavorazione del cuoio | esperienza borse/cinte fatte a mano |
+| Emiliano (figlio di Miriam) | Affettati | da risentire: capire quanto sarebbe interessato e se le dimostrazioni si possono fare tutto l'anno o solo in certi periodi |
+| ~~Costantino~~ | ~~Formaggi~~ | **scomparso un anno fa — esperienza formaggi non più disponibile da questa fonte; valutare se cercare un altro casaro del territorio** |
+| Renzo | Lavorazione del cuoio (borse/cinte) | disponibilità alta — la dimostrazione potrebbe essere **gratuita**, dato che gli ospiti probabilmente acquisterebbero la sua merce dopo aver visto come la fa (vantaggioso per entrambi) |
+| Maneggio Civitella Cesi | Passeggiate a cavallo | possibile attività complementare/escursione — da contattare per capire disponibilità e modalità con piccoli gruppi |
 | Francesco Lierati | Da definire | da contattare |
 | La Torretta | Possibile partner (ristorazione/locale) | da contattare |
 | Bar Etruria | Possibile partner (locale/ritrovo) | da contattare |

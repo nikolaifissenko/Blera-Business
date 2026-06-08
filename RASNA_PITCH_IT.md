@@ -26,14 +26,17 @@ Da soli, nessuno dei due potrebbe farlo. Insieme, è un progetto completo.
 
 ## 3. Come si presenta l'esperienza
 
-**Il punto di partenza concreto — quattro esperienze reali, già confermate:**
+**Il punto di partenza concreto — costruito su conversazioni reali, aggiornato man mano che si avanza:**
 
 1. 🫒 **Raccolta delle olive** — l'unica attività di campagna su cui possiamo contare fin da subito
-2. 🥓 **Miriam (e suo figlio) — prosciutto/affettati** — degustazione ed esperienza di produzione
-3. 🧀 **Costantino — formaggi** — degustazione ed esperienza di produzione
-4. 👜 **Renzo — laboratorio di borse in pelle** — un'idea nata da un'osservazione concreta: nei tour a Roma, gli americani chiedono sempre una borsa di pelle italiana autentica. Far realizzare agli ospiti la propria borsa con Renzo trasforma una semplice "visita all'artigiano" in esattamente il tipo di esperienza-souvenir che questo pubblico già desidera — probabilmente una delle attività più facili da vendere dell'intero programma
+2. 🍅 **Pomodoro e giornata della salsa (agosto)** — confermata: anche piantando i pomodori appositamente, se necessario, è un'attività su cui si può contare
+3. 🥓 **Emiliano (figlio di Miriam) — affettati** — da risentire per capire quanto sarebbe interessato e se le dimostrazioni si possono organizzare tutto l'anno o solo in certi periodi
+4. 👜 **Renzo — laboratorio di borse in pelle** — un'idea nata da un'osservazione concreta: nei tour a Roma, gli americani chiedono sempre una borsa di pelle italiana autentica. Far realizzare agli ospiti la propria borsa con Renzo trasforma una semplice "visita all'artigiano" in esattamente il tipo di esperienza-souvenir che questo pubblico già desidera. In più, la sua dimostrazione potrebbe essere **gratuita**: gli ospiti probabilmente acquisterebbero la sua merce dopo aver visto come la realizza — un vantaggio per entrambi
+5. 🐴 **Passeggiate a cavallo — Maneggio di Civitella Cesi** — possibile attività complementare, da contattare per valutare disponibilità con piccoli gruppi
 
-**Questo è il programma reale da cui partire**: piccolo, concreto, già verificato con le persone coinvolte — non un calendario teorico di 12 mesi. Il resto del calendario stagionale (asparagi, vendemmia, Natale, carciofi, ecc.) resta un obiettivo a lungo termine da validare e aggiungere strada facendo, non un requisito per partire.
+*(Nota: l'esperienza dei formaggi con Costantino, purtroppo, non è più disponibile — è scomparso circa un anno fa. Da valutare se trovare un altro casaro del territorio disposto a ospitare gruppi.)*
+
+**Questo è il programma reale da cui partire**: costruito su conversazioni dirette con le persone coinvolte, e aggiornato onestamente man mano che la realtà si chiarisce — non un calendario teorico di 12 mesi. Il resto del calendario stagionale (asparagi, vendemmia, Natale, carciofi, ecc.) resta un obiettivo a lungo termine da validare e aggiungere strada facendo, non un requisito per partire.
 
 ---
 
@@ -49,9 +52,8 @@ Un viaggio di **4 giorni, in piccoli gruppi (6–10 persone)**, può comunque cr
 - **Gennaio–Maggio (inverno-primavera)** — Raccolta dei carciofi (Carciofo Romanesco IGP) e cucina tipica della stagione
 
 **Esperienze artigianali — il punto di partenza più solido:** non dipendono da una stagione né da una persona difficile da trovare, e le persone sono già individuate. Sono probabilmente la base più sicura su cui costruire il primo viaggio pilota:
-- Una mattinata con un casaro del territorio — vedere e partecipare alla produzione del formaggio, con degustazione
-- Una visita da un produttore locale di affettati — scoprire come si preparano e si stagionano i salumi secondo la tradizione, con degustazione
-- Un laboratorio con un artigiano del cuoio del territorio — gli ospiti realizzano con le proprie mani, sotto la sua guida, una borsa o una cintura da portare a casa
+- Una visita con Emiliano — scoprire come si preparano e si stagionano gli affettati secondo la tradizione, con degustazione (disponibilità e periodi da confermare con lui)
+- Un laboratorio con Renzo — gli ospiti realizzano con le proprie mani, sotto la sua guida, una borsa di pelle da portare a casa (potenzialmente offerto gratuitamente, dato che gli ospiti probabilmente acquisterebbero anche la sua merce)
 
 In questo modo, **non esiste un "periodo morto"**: ogni mese dell'anno ha una sua attività agricola autentica da offrire, e possiamo costruire un calendario di viaggi distribuito lungo tutti i 12 mesi, anziché concentrato in poche settimane.
 
@@ -99,7 +101,7 @@ Un risultato davvero solido per un progetto gestito in poche settimane mirate di
 
 ## 6. Cosa serve per iniziare
 
-- **Una rete di contatti locali:** alcune famiglie/ospitanti disponibili, B&B partner e contatti per la logistica e i trasporti — partendo da chi è già stato individuato (es. Costantino, Miriam, Renzo)
+- **Una rete di contatti locali:** alcune famiglie/ospitanti disponibili, B&B partner e contatti per la logistica e i trasporti — partendo da chi è già stato individuato (es. Emiliano, Renzo, e gli alloggi già mappati)
 - **Un accordo semplice e chiaro tra i partner** — su come dividere ruoli, decisioni e profitti (questo è il primo passo, prima di qualunque altra cosa)
 - **Un piccolo viaggio pilota** — da realizzare con un gruppo ristretto e amichevole, per imparare cosa funziona e costruire la nostra storia e i materiali di presentazione
 - **L'unico vero costo iniziale è il commercialista** — il resto si costruisce mettendoci d'accordo con le persone e le attività del territorio, non investendo capitale

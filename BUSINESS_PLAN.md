@@ -12,13 +12,16 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 
 **The implication:** the calendar below should be treated as a **menu of possibilities to validate one by one** — not a guaranteed year-round program. Some activities may need to be dropped, replaced, or reframed (e.g., "a day of vendemmia" rather than "the full grape season", "traditional-style cooking" rather than "Nonna's house") once we know who is realistically willing and able to host them, and at what cost. This validation is exactly what Phase 1 (below) is for.
 
-**UPDATE — concrete starting point agreed with Maria Grazia:** rather than waiting to validate the full 12-month calendar, we're starting the pilot/launch design around **four confirmed, real building blocks**:
-1. **Olive harvest** — the one genuine field/agricultural activity we can reliably count on right now
-2. **Miriam's son — prosciutto/cured meats** — tasting and production experience
-3. **Costantino — cheese (formaggi)** — tasting and production experience
-4. **Renzo — leatherwork, reframed around bag-making specifically** — based on direct market signal: when running tours in Rome, American guests consistently ask for an authentic Italian leather bag. Having Renzo lead a hands-on session where guests make their own bag turns a generic "craft visit" into exactly the kind of high-demand souvenir-experience this audience already wants — a strong differentiator and likely one of the most marketable single activities in the whole offer.
+**UPDATE — concrete starting point agreed with Maria Grazia (latest check-in):**
 
-This is now the **real starting program** — small, concrete, fully validated with the people involved — rather than a theoretical 12-month menu. The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
+1. **Olive harvest** — the one genuine field/agricultural activity we can reliably count on right now
+2. **Tomatoes / "sauce day" (August)** — confirmed reliably available; Maria Grazia is confident this can happen even if she has to plant the tomatoes herself 😂 — a strong, low-risk anchor for the August departure
+3. ~~**Costantino — cheese**~~ — **sadly passed away about a year ago; this experience is no longer available from this source.** We'll need to either find another local cheesemaker willing to host guests, or drop cheese-making as a planned activity (cheese tasting via partner producers/shops remains possible as a lighter-touch alternative).
+4. **Emiliano (Miriam's son) — cured meats/affettati** — to follow up directly with him: gauge his actual interest/availability, and critically, **whether demonstrations can run year-round or only in certain periods** (this affects how reliably we can build a trip around it).
+5. **Renzo — leatherwork / bag-making** — high availability, and a great economic model: **his demonstration could be offered for free**, since guests would likely buy his goods afterward — a win-win that needs no negotiation over a hosting fee. Reframed specifically around bag-making based on a direct market signal: when running tours in Rome, American guests consistently ask for an authentic Italian leather bag — a hands-on session making their own turns this into one of the most marketable single activities in the whole offer.
+6. **Horseback riding — Maneggio di Civitella Cesi** — a new candidate complementary activity/excursion (not town-based, but nearby); to contact and assess fit, availability, and how they'd handle small international groups.
+
+This is the **real, evolving starting program** — built from direct conversations with the people involved, adjusted as we learn more (e.g., losing Costantino, confirming tomatoes, clarifying Emiliano's and the maneggio's availability). The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
 
 **Year-round agricultural calendar — candidate activities to validate (not a finished program):**
 - **March–June:** wild asparagus foraging in the Tuscia woods (a real, still-living local Easter-season tradition — strong candidate), spring planting
@@ -34,9 +37,9 @@ This is now the **real starting program** — small, concrete, fully validated w
 **Cooking experiences — reframed:** rather than promising "Nonna's house", market these as **"cooking in the tradition of the nonne"** — e.g., a field lunch or panonto cooked in the traditional style by a local host (who may or may not be an actual grandmother). This stays true to the spirit guests are paying for, while not depending on — or overpromising — one specific, hard-to-find, hard-to-retain person.
 
 **Artisan experiences (not seasonal — can anchor or complement a trip year-round, and don't depend on agricultural timing or a "Nonna"; among the most reliable building blocks of the offer):**
-- A morning with a local cheesemaker (Costantino) — watching and helping make cheese, tasting straight from the source
-- A visit to a local "affettati" (cured meats) producer (Miriam's son) — seeing how salumi are made and cured the traditional way, with a tasting
-- A hands-on session with a local leather craftsman (Renzo) — guests make and take home their own bag or belt, hand-worked under his guidance
+- ~~A morning with a local cheesemaker (Costantino)~~ — **no longer available** (Costantino passed away ~1 year ago); to replace with another local cheesemaker if one can be found, or drop
+- A visit with Emiliano (Miriam's son) — affettati/cured meats — seeing how salumi are made and cured the traditional way, with a tasting (availability and year-round feasibility to be confirmed directly with him)
+- A hands-on bag-making session with Renzo — guests make and take home their own leather bag or belt, hand-worked under his guidance (potentially offered free of charge, with guests purchasing his goods afterward — a natural win-win)
 
 These artisan experiences are especially valuable right now: they're **available year-round, don't depend on agricultural seasons or a specific elderly host, and the people are already identified** (see `CONTATTI_LOCALI.md`). They should likely anchor the first pilot, while the agricultural activities are validated one at a time.
 
@@ -80,7 +83,7 @@ These aren't separate attractions to manage — they're moments the town already
 
 ### Phase 1 — Validate and design the offer (1–2 months)
 1. **Validate activities one by one before designing around them** — go through the candidate calendar above and confirm, for each: is there a real person willing to host it, what would they expect to be paid, and how often could they realistically do it? Drop or reframe anything that doesn't check out (this is where Maria Grazia's local knowledge is essential — she already flagged several to look at carefully: vendemmia, pig butchering, wheat harvest, "Nonna").
-2. Start the pilot design from the **most reliable building blocks already identified** — the artisan experiences (Costantino/cheese, Miriam's son/affettati, Renzo/leather), which don't depend on season or a hard-to-find host. Pick ONE to anchor the first pilot, plus one agricultural activity that's currently in season and confirmed available.
+2. Start the pilot design from the **most reliable building blocks already identified** — the artisan experiences (Renzo/leather bag-making, Emiliano/affettati once confirmed), which don't depend on season or a hard-to-find host. Pick ONE to anchor the first pilot, plus the tomato/sauce-day activity (now confirmed reliably available — Maria Grazia is willing to plant the tomatoes herself if needed) for the agricultural anchor.
 3. Map out exactly what a 3-day pilot itinerary looks like hour by hour: who hosts, where guests sleep, what they eat, what they do.
 4. Identify and informally confirm 2–3 willing local hosts/artisans and 1–2 BnB/hotel partners for lodging — and agree on **fair compensation with each of them up front** (not as an afterthought).
 5. **Get an insurance quote for guest participation in hands-on activities** before running anything live — this is a real cost and a real liability question, not optional (loop in the commercialista/insurer early).

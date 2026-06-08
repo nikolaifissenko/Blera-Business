@@ -44,6 +44,8 @@ Either way, this is a compliance risk worth resolving *before* scaling — not s
 
 **Note on hosting fees and insurance:** these two lines reflect direct feedback from Maria Grazia — anyone hosting an activity will reasonably expect fair payment (this isn't a favor economy), and guest insurance for hands-on/manual activities is a real, non-negotiable cost (injury risk in harvesting, butchering, leatherwork, etc.). Both are now built into the cost model rather than treated as afterthoughts — get concrete quotes for both during the pilot to replace these estimates with real numbers.
 
+**A nice exception worth flagging — Renzo's leather/bag-making session:** this one could realistically run at **little or no hosting cost to us**, since guests are likely to purchase his goods after seeing how they're made — meaning he benefits directly from hosting, without needing a separate fee. This is the kind of win-win arrangement worth replicating wherever possible (it's also a good model to discuss with other artisans/producers — e.g. whether a tasting that leads to a sale could substitute for, or reduce, a hosting fee).
+
 ## 2. Group economics
 
 Assume groups of **8 guests** average (range 6–10 — small enough to stay intimate, large enough to be efficient):
