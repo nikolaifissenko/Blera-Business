@@ -39,6 +39,13 @@ Un viaggio di **4 giorni, in piccoli gruppi (6–10 persone)**, costruito attorn
 
 In questo modo, **non esiste un "periodo morto"**: ogni mese dell'anno ha una sua attività agricola autentica da offrire, e possiamo costruire un calendario di viaggi distribuito lungo tutti i 12 mesi, anziché concentrato in poche settimane.
 
+**E poi ci sono le feste e gli eventi del paese — momenti che il territorio crea già da solo:**
+- **Giugno** — Corpus Domini
+- **Estate, quasi ogni weekend** — sagre locali
+- **Secondo weekend di Novembre** — la Festa delle Cantine: le cantine del paese aprono le porte, e si mangia e si beve direttamente dentro le cantine — un'atmosfera unica, che si vive solo qui
+
+Non sono attrazioni da organizzare: sono momenti che il paese vive comunque, e i nostri ospiti li vivono semplicemente trovandosi lì al momento giusto. Rendono certe date di partenza particolarmente speciali e facili da raccontare (per esempio: "vieni con noi nel weekend della Festa delle Cantine").
+
 **E in ogni viaggio, sempre presenti:**
 - Passeggiate guidate alle tombe rupestri etrusche e lungo la Via Clodia
 - Escursioni giornaliere al Lago di Vico, Villa Lante, Palazzo Farnese, Viterbo, Tarquinia e la costa

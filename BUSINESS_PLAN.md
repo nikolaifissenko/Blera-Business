@@ -16,6 +16,13 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 
 This calendar is the backbone of the business: it lets us run small-group trips across all 12 months — rather than concentrating everything into a few peak weeks — while keeping every activity tied to something genuinely happening on the land at that moment.
 
+**Local festivals and events — built-in marketing moments:** the Blera area already has a rich calendar of community celebrations that align naturally with the agricultural calendar above and add real festive energy to a trip:
+- **June:** Corpus Domini celebrations
+- **Summer (most weekends):** local "sagre" (food and folk festivals) — frequent, easy to weave into a visit
+- **Second weekend of November:** the Cantine Festival — local wine cellars across town open their doors, and people eat and drink directly inside the cellars; a uniquely atmospheric, only-here event
+
+These aren't separate attractions to manage — they're moments the town already creates for itself, which guests get to experience simply by being there at the right time. They make certain departure dates especially compelling and easy to market (e.g., "join us for Cantine Festival weekend").
+
 **Supporting elements:** guided exploration of Etruscan ruins, rock-cut tombs, the Via Clodia, and the surrounding Lazio countryside.
 
 ## 2. Why this works
