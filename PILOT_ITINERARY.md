@@ -111,7 +111,7 @@ These are the things that will kill the pilot if you haven't confirmed them.
 | **Day 3 — Dinner on your terrace** | You cook. Gnocchi + secondo + vino. | €60 |
 | **Day 4 — Breakfast** | Self-catered | €35 |
 | **Day 4 — Lunch** | Seaside restaurant, coast near Tarquinia | €180 |
-| **Day 4 — Dinner** | Beccone Albergo or La Torretta | €180 |
+| **Day 4 — Dinner** | Cristina's home restaurant | €150 |
 | **Day 5 — Breakfast** | Self-catered | €35 |
 | Bar Etruria (coffees + aperitivi across the week) | Bar Etruria | €60 |
 | **Meals total** | | **€1,110** |
@@ -296,7 +296,7 @@ These are the things that will kill the pilot if you haven't confirmed them.
 | 14:30 | Beach — walk, sit, decompress after the tombs | Free |
 | 16:00 | Drive back to Blera (~55 min) | Fuel included |
 | 17:30 | Arrive Blera. Free time. | — |
-| 19:30 | **Dinner** — Beccone Albergo or La Torretta | €180 |
+| 19:30 | **Dinner** — at Cristina's — home restaurant, private, back in Blera after the day out | €150 |
 
 **Option B — Lago di Vico (if Tarquinia feels too far or group prefers nature)**
 

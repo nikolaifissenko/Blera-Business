@@ -26,6 +26,12 @@
 - **Note:** Punto di ritrovo reale del paese. I clienti abituali sono locali. Ottimo per far sentire i guests parte del ritmo quotidiano.
 - **Costo stimato gruppo di 6 (caffè + aperitivi, 5 giorni):** ~€120
 
+### Casa di Cristina — Home Restaurant
+- **Tipo:** Home restaurant occasionale
+- **Uso:** Cena alternativa ai ristoranti del paese — più intima, più privata, completamente autentica
+- **Note:** Cristina (Cristina Damiani, parte del team Rasna) apre la sua casa per il gruppo. Cucina casalinga locale. La serata dopo Tarquinia e la costa è perfetta per questo — il gruppo rientra stanco in modo piacevole e mangiare a casa di qualcuno chiude la giornata in modo personale. Da definire con Cristina: compenso, menù, logistica.
+- **Costo stimato gruppo di 6:** €150 (ingredienti + compenso Cristina)
+
 ### Pappetta — Cantina
 - **Tipo:** Cantina del vino / enoteca locale
 - **Uso:** Serata alternativa — vini locali in cantina, abbinata a taglieri. Atmosfera underground, luce bassa, barili.

@@ -7,7 +7,7 @@ Obiettivo di questa fase: trasformare la rete di conoscenze a Blera in un primo 
 | Nome | Ruolo nel progetto | Note |
 |---|---|---|
 | Maria Grazia | Partner — relazioni locali, conoscenza del territorio | co-fondatrice |
-| Cristina Damiani | Manager / coordinamento operativo | da coinvolgere su come si inserisce nei ruoli con Maria Grazia |
+| Cristina Damiani | Manager / coordinamento operativo + home restaurant occasionale | disponibile a ospitare il gruppo a casa sua per cena — alternativa più intima e autentica rispetto a un ristorante. Da definire: quali sere, compenso, capacità della casa per 6 persone. |
 | Emiliano (figlio di Miriam) | Affettati | da risentire: capire quanto sarebbe interessato e se le dimostrazioni si possono fare tutto l'anno o solo in certi periodi |
 | ~~Costantino~~ | ~~Formaggi~~ | **scomparso un anno fa — esperienza formaggi non più disponibile da questa fonte; valutare se cercare un altro casaro del territorio** |
 | Renzo | Lavorazione del cuoio (borse/cinte) | disponibilità alta — la dimostrazione potrebbe essere **gratuita**, dato che gli ospiti probabilmente acquisterebbero la sua merce dopo aver visto come la fa (vantaggioso per entrambi) |
