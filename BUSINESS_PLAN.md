@@ -26,22 +26,21 @@ This is the **real, evolving starting program** — built from direct conversati
 **Year-round agricultural calendar — candidate activities to validate (not a finished program):**
 - **March–June:** wild asparagus foraging in the Tuscia woods (a real, still-living local Easter-season tradition — strong candidate), spring planting
 - **January–February only, narrow window:** traditional pig butchering and curing — *to validate: does anyone still do this the traditional way, and would they host guests?*
-- **July–August:** tomato harvest and "sauce day" (passata) — still commonly done in family settings; good candidate
+- **July–August:** tomato harvest and "sauce day" (passata) — confirmed reliable
 - **Late August–September:** hazelnut harvest — the Tuscia's signature crop (~40% of Italy's national production)
-- **A single day in September–October:** vendemmia (grape harvest) — frame as "a day of harvest", not an extended season, since it's now typically done in one day by whoever still does it; cellar visits remain a strong, more reliably available activity (see Cantine Festival below)
-- **October–December:** olive harvest and oil pressing — still widely practiced; one of the most reliable seasonal anchors
-- **December:** Italian Christmas traditions (food, customs, family rituals) — frame around real local customs and food, not a specific staged scene
+- **A single day in September–October:** vendemmia (grape harvest) — frame as "a day of harvest"; cellar visits remain a strong, more reliably available alternative (see Cantine Festival below)
+- **October–December:** olive harvest and oil pressing — still widely practiced; the most reliable seasonal anchor, and the **pilot's anchor activity (October)**
+- **December:** Italian Christmas traditions (food, customs, family rituals)
 - **January–May:** artichoke harvest (Carciofo Romanesco IGP) and seasonal cooking
 - ~~Wheat harvest by hand~~ — **dropped**: no longer practiced; not viable as an authentic activity
 
-**Cooking experiences — reframed:** rather than promising "Nonna's house", market these as **"cooking in the tradition of the nonne"** — e.g., a field lunch or panonto cooked in the traditional style by a local host (who may or may not be an actual grandmother). This stays true to the spirit guests are paying for, while not depending on — or overpromising — one specific, hard-to-find, hard-to-retain person.
+**Cooking experiences — reframed:** rather than promising "Nonna's house", market these as **"cooking in the tradition of the nonne"** — e.g., a field lunch or panonto cooked in the traditional style by a local host. True to the spirit, without depending on one hard-to-find, hard-to-retain person.
 
-**Artisan experiences (not seasonal — can anchor or complement a trip year-round, and don't depend on agricultural timing or a "Nonna"; among the most reliable building blocks of the offer):**
-- ~~A morning with a local cheesemaker (Costantino)~~ — **no longer available** (Costantino passed away ~1 year ago); to replace with another local cheesemaker if one can be found, or drop
-- A visit with Emiliano (Miriam's son) — affettati/cured meats — seeing how salumi are made and cured the traditional way, with a tasting (availability and year-round feasibility to be confirmed directly with him)
-- A hands-on bag-making session with Renzo — guests make and take home their own leather bag or belt, hand-worked under his guidance (potentially offered free of charge, with guests purchasing his goods afterward — a natural win-win)
+**Artisan experiences (not seasonal — can anchor or complement a trip year-round; among the most reliable building blocks of the offer):**
+- Emiliano (Miriam's son) — affettati/cured meats, with a tasting — **to confirm: availability and pricing**
+- Renzo — hands-on leather bag-making, guests take home their own piece (potentially free, with guests buying his goods afterward) — **to confirm: availability and pricing**
 
-These artisan experiences are especially valuable right now: they're **available year-round, don't depend on agricultural seasons or a specific elderly host, and the people are already identified** (see `CONTATTI_LOCALI.md`). They should likely anchor the first pilot, while the agricultural activities are validated one at a time.
+These are available year-round and the people are already identified (see `CONTATTI_LOCALI.md`).
 
 This calendar is the backbone of the business — but it only works if it's built from **what's genuinely available**, validated person by person, rather than designed first and staffed later. Better to launch with 3–4 rock-solid, real experiences than to promise twelve months of activities that turn out to be difficult to deliver.
 
@@ -117,8 +116,9 @@ These aren't separate attractions to manage — they're moments the town already
 
 ## 6. Immediate next actions (this month)
 
-1. Talk to Maria Grazia — align on roles and write down the basics of your partnership.
-2. Pick the pilot experience (recommend tomato sauce, given timing — it's nearly August now).
-3. List 3 local families/artisans and 2 BnBs you could realistically approach this week.
-4. Sketch the pilot itinerary and rough-cost it.
-5. Identify 4–8 people you could invite to a pilot trip in the next 2–3 months.
+1. **Partnership with Maria Grazia: aligned 50/50.** ✅
+2. **Pilot target: October**, anchored on the olive harvest (most reliable seasonal activity).
+3. Confirm Emiliano (affettati) and Renzo (leather bag-making) — availability and pricing.
+4. Reach out to American friends to gauge interest and recruit 6–8 people for the October pilot.
+5. Sketch the pilot itinerary and rough-cost it once activities are confirmed.
+6. Brand: keep the name "Rasna"; hold off on launching Instagram until after the pilot, when real photos/testimonials exist.
