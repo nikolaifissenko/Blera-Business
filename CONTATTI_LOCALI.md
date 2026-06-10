@@ -21,6 +21,17 @@ Obiettivo di questa fase: trasformare la rete di conoscenze a Blera in un primo 
 
 *(Aggiorna questa tabella man mano che emergono altri nomi — diventa la base operativa di tutta la fase di contatto.)*
 
+## To-do immediata — Maria Grazia (networking, prossime 1-2 settimane)
+
+1. **Emiliano (figlio di Miriam) – affettati**: risentirlo — interessato? dimostrazioni tutto l'anno o solo certi periodi? compenso indicativo
+2. **Casaro alternativo** (formaggi, dato che Costantino non è più disponibile): c'è qualcuno nel territorio?
+3. **Renzo – cuoio**: confermare disponibilità/date di massima e formula "dimostrazione gratuita + acquisto prodotti"
+4. **Maneggio Civitella Cesi**: contattare — disponibilità, gestione piccoli gruppi internazionali, costi
+5. **B&B/alloggi**: Beccone e Antonella (disponibilità/tariffe); verificare se Poggio al Sasso è ancora aperto
+6. **Nuovi contatti**: Francesco Lierati, La Torretta, Bar Etruria — capire ruolo possibile
+7. **Pomodoro/salsa (agosto)**: iniziare a pianificare logistica (data, dove, chi partecipa)
+8. **Allineamento ruoli**: breve confronto su ruoli/compensi tra Maria Grazia e Cristina Damiani
+
 
 ## 1. Mappa le persone prima di parlarne
 
