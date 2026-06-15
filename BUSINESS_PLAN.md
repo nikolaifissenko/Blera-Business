@@ -4,6 +4,13 @@
 
 Small-group immersive travel experiences in and around Blera (northern Lazio, Italy), giving international tourists genuine participation in local seasonal life — not a sightseeing tour, but a "live like a local for a few days" experience.
 
+**The 3 stages of fun — and what's really being sold:** the product isn't just the 4 days in Blera. It's also Nikolai Fissenko as host/curator throughout. Guests should be part of all three stages:
+1. **Planning it** — the anticipation. Before the trip: a personal welcome/intro from Nikolai, a group chat or call to shape the itinerary together (which activities, who's coming), countdown content, "what to expect" guides. This builds excitement and a relationship before guests even arrive.
+2. **Doing it** — the trip itself. The activities described below, hosted with Maria Grazia's local network, guided by Nikolai for the international guests.
+3. **Remembering it** — after the trip. Photos/video from the trip curated and shared (by Nikolai), a group recap/highlight reel, recipes or "how-to" follow-ups from the workshops (e.g., the pasta recipe guests made), an alumni group for past guests, anniversary check-ins ("a year ago you were in Blera...").
+
+This reframes the brand: guests aren't just buying a Blera itinerary, they're buying an ongoing experience curated by Nikolai — which is also what makes the brand personal, repeatable, and word-of-mouth-friendly (alumni become advocates and repeat customers for future trips/seasons).
+
 **Reality check (feedback from Maria Grazia, June 2026) — important constraints to design around:**
 - Several traditional activities described below are **rarely practiced anymore** at real scale in Blera today: vendemmia (now often done in a single day by whoever still does it), hand-harvesting wheat (essentially gone), and pig butchering (only a narrow Jan–Feb window, and increasingly hard to find people who still do it traditionally).
 - **Anyone who agrees to host an activity will reasonably expect to be paid** — this isn't a favor economy, it's real work and real time, and should be budgeted as such (already reflected in `FINANCIAL_PLAN.md`'s per-guest cost breakdown).
