@@ -43,21 +43,9 @@ Fare quello che fai già, con qualcuno che guarda, partecipa e impara. Niente da
 
 ---
 
-### Come funziona
-
-1. **Ci incontriamo** e ti spieghiamo il progetto
-2. **Decidiamo insieme** se e come inserire la tua attività
-3. **Concordiamo un compenso** giusto
-4. **Facciamo una prova** con un piccolo gruppo amichevole
-5. **Se funziona**, continuiamo — sempre con libertà di dire no
-
-Nessun contratto vincolante. Solo la voglia di provare.
-
----
-
 ### Contatti
 
-**[Il tuo nome]** — [telefono] — [email]
+**Nikolai Fissenko** — 349 101 6416 — nikolai.fissenko1@gmail.com
 
 Insieme a **Maria Grazia**, che molti di voi già conoscono.
 
