@@ -16,10 +16,13 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 
 1. **Olive harvest** — the one genuine field/agricultural activity we can reliably count on right now
 2. **Tomatoes / "sauce day" (August)** — confirmed reliably available; Maria Grazia is confident this can happen even if she has to plant the tomatoes herself 😂 — a strong, low-risk anchor for the August departure
-3. ~~**Costantino — cheese**~~ — **sadly passed away about a year ago; this experience is no longer available from this source.** We'll need to either find another local cheesemaker willing to host guests, or drop cheese-making as a planned activity (cheese tasting via partner producers/shops remains possible as a lighter-touch alternative).
+3. ~~**Costantino — cheese**~~ → **REPLACED by Davide Paolocci (Civitella Cesi)** — confirmed available: cheese and meat tasting, hands-on cheesemaking/curing with visitors, plus a nearby archaeological site visit. A complete half-day experience on its own. Tel: +39 327 752 2499.
 4. **Emiliano (Miriam's son) — cured meats/affettati** — to follow up directly with him: gauge his actual interest/availability, and critically, **whether demonstrations can run year-round or only in certain periods** (this affects how reliably we can build a trip around it).
 5. **Renzo — leatherwork / bag-making** — high availability, and a great economic model: **his demonstration could be offered for free**, since guests would likely buy his goods afterward — a win-win that needs no negotiation over a hosting fee. Reframed specifically around bag-making based on a direct market signal: when running tours in Rome, American guests consistently ask for an authentic Italian leather bag — a hands-on session making their own turns this into one of the most marketable single activities in the whole offer.
 6. **Horseback riding — Maneggio di Civitella Cesi** — a new candidate complementary activity/excursion (not town-based, but nearby); to contact and assess fit, availability, and how they'd handle small international groups.
+7. **Nicolò Lenarda — partner/board member** — asset multipli: degustazione olio ✅, azienda olearia (raccolta olive, DA VALIDARE stagionalità), 2 cavalli (DA VALIDARE logistica gruppi), compagna + asini per trekking (DA VALIDARE disponibilità), panonto a San Giovenale (DA VALIDARE formato + data).
+
+**New candidate itinerary — "Giornata Civitella Cesi":** cavalli (Centro Ippico San Giovenale o Nicolò) + lavorazione/degustazione formaggio e carne con Davide Paolocci + visita sito etrusco. A strong full-day package combining outdoor activity, artisan food, and archaeology — all within the Civitella Cesi area.
 
 This is the **real, evolving starting program** — built from direct conversations with the people involved, adjusted as we learn more (e.g., losing Costantino, confirming tomatoes, clarifying Emiliano's and the maneggio's availability). The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
 
@@ -37,7 +40,7 @@ This is the **real, evolving starting program** — built from direct conversati
 **Cooking experiences — reframed:** rather than promising "Nonna's house", market these as **"cooking in the tradition of the nonne"** — e.g., a field lunch or panonto cooked in the traditional style by a local host (who may or may not be an actual grandmother). This stays true to the spirit guests are paying for, while not depending on — or overpromising — one specific, hard-to-find, hard-to-retain person.
 
 **Artisan experiences (not seasonal — can anchor or complement a trip year-round, and don't depend on agricultural timing or a "Nonna"; among the most reliable building blocks of the offer):**
-- ~~A morning with a local cheesemaker (Costantino)~~ — **no longer available** (Costantino passed away ~1 year ago); to replace with another local cheesemaker if one can be found, or drop
+- **A half-day with Davide Paolocci (Civitella Cesi)** — cheese and meat tasting + hands-on production with visitors + nearby archaeological site; ✅ CONFIRMED as Costantino's replacement
 - A visit with Emiliano (Miriam's son) — affettati/cured meats — seeing how salumi are made and cured the traditional way, with a tasting (availability and year-round feasibility to be confirmed directly with him)
 - A hands-on bag-making session with Renzo — guests make and take home their own leather bag or belt, hand-worked under his guidance (potentially offered free of charge, with guests purchasing his goods afterward — a natural win-win)
 
