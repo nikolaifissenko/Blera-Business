@@ -24,6 +24,21 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 
 **New candidate itinerary — "Giornata Civitella Cesi":** cavalli (Centro Ippico San Giovenale o Nicolò) + lavorazione/degustazione formaggio e carne con Davide Paolocci + visita sito etrusco. A strong full-day package combining outdoor activity, artisan food, and archaeology — all within the Civitella Cesi area.
 
+**✅ ATTIVITÀ CONFERMATE — proponibili da subito (giugno 2026):**
+
+| # | Attività | Chi / Dove | Tipo |
+|---|---|---|---|
+| 1 | Fare formaggi (hands-on + degustazione) | Davide Paolocci — Civitella Cesi | Artigianale |
+| 2 | Raccolta olive + frantoio | Nicolò Lenarda / azienda olearia | Agricola (stagionale ott–dic) |
+| 3 | Panonto a San Giovenale | Nicolò Lenarda | Gastronomica |
+| 4 | Passeggiata con asini | Compagna di Nicolò | Escursione |
+| 5 | Tour tre villaggi (Blera, Barbarano, Civitella Cesi) | — | Culturale |
+| 6 | Tombe etrusche — Tarquinia | — | Culturale / archeologica |
+| 7 | Lago di Vico — passeggiata | — | Natura / escursione |
+| 8 | Palazzo Farnese (Caprarola) | — | Culturale / storica |
+
+Queste 8 attività formano il nucleo dell'offerta proponibile fin da subito, con un buon mix di esperienze hands-on (formaggi, olive), gastronomiche (panonto), natura (asini, Lago di Vico) e cultura (tre villaggi, Tarquinia, Palazzo Farnese). Sufficienti per costruire itinerari da 3–5 giorni con varietà.
+
 This is the **real, evolving starting program** — built from direct conversations with the people involved, adjusted as we learn more (e.g., losing Costantino, confirming tomatoes, clarifying Emiliano's and the maneggio's availability). The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
 
 **Year-round agricultural calendar — candidate activities to validate (not a finished program):**
