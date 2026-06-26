@@ -23,7 +23,7 @@ Obiettivo di questa fase: trasformare la rete di conoscenze a Blera in un primo 
 | Antonella | Possibile partner — B&B | da contattare per lo scouting B&B/lodging |
 | Luca Torelli | Da definire | da contattare |
 | Anna Torelli | Da definire | da contattare |
-| Mignone | Escursioni | da contattare |
+| Fiume Mignone | Escursione — trekking lungo il fiume | attività confermata |
 | Antonella Pino | Da definire | da contattare |
 | Luigi Sanapo | Funghi (foraging) | da contattare — esperto di funghi |
 | Poggio al Sasso (agriturismo) | Possibile alloggio — DA VERIFICARE | segnalato come probabilmente chiuso, da confermare prima di considerarlo |
@@ -122,11 +122,10 @@ Alla fine di questo giro di conversazioni, dovresti avere:
 - **Stato:** DA CONTATTARE
 - **Note:** da definire ruolo e disponibilità
 
-### MIGNONE
-- **Tel:** (da raccogliere)
-- **Stato:** DA CONTATTARE
-- **Settore:** Escursioni
-- **Note:** attività escursionistica
+### FIUME MIGNONE
+- **Tipo:** Attività
+- **Stato:** ✅ CONFERMATA
+- **Note:** Escursione / trekking lungo il fiume Mignone
 
 ### ANTONELLA PINO
 - **Tel:** (da raccogliere)
