@@ -4,6 +4,10 @@
 
 Small-group immersive travel experiences in and around Blera (northern Lazio, Italy), giving international tourists genuine participation in local seasonal life — not a sightseeing tour, but a "live like a local for a few days" experience.
 
+**Core principle: exclusive access.** Every activity we offer must be something guests could only do through us. They can't walk into Blera and find Davide's cheesemaking or Nicolò's donkey trek on their own — we are the access point to these people and experiences. This is the value proposition and the reason the price is justified. If an activity is something a tourist could easily arrange independently, it doesn't belong in the core offer.
+
+**Three phases of enjoyment:** the experience delivers value across three moments — the **anticipation** (planning and looking forward to it), the **experience** (doing it), and the **memory** (looking back on it). Every touchpoint should be designed with all three in mind.
+
 **Reality check (feedback from Maria Grazia, June 2026) — important constraints to design around:**
 - Several traditional activities described below are **rarely practiced anymore** at real scale in Blera today: vendemmia (now often done in a single day by whoever still does it), hand-harvesting wheat (essentially gone), and pig butchering (only a narrow Jan–Feb window, and increasingly hard to find people who still do it traditionally).
 - **Anyone who agrees to host an activity will reasonably expect to be paid** — this isn't a favor economy, it's real work and real time, and should be budgeted as such (already reflected in `FINANCIAL_PLAN.md`'s per-guest cost breakdown).
