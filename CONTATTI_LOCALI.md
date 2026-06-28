@@ -8,12 +8,12 @@ Obiettivo di questa fase: trasformare la rete di conoscenze a Blera in un primo 
 |---|---|---|
 | Maria Grazia | Partner — relazioni locali, conoscenza del territorio | co-fondatrice |
 | Cristina Damiani | Manager / coordinamento operativo | da coinvolgere su come si inserisce nei ruoli con Maria Grazia |
-| Emiliano (figlio di Miriam) | Affettati | da risentire: capire quanto sarebbe interessato e se le dimostrazioni si possono fare tutto l'anno o solo in certi periodi |
+| Emiliano (figlio di Miriam) | Affettati — degustazione salumi homemade | ✅ CONFERMATO — disponibile per degustazioni dei suoi prodotti di salumeria artigianale |
 | ~~Costantino~~ | ~~Formaggi~~ | **scomparso un anno fa — sostituito da Davide Paolocci (vedi sotto)** |
 | **Davide Paolocci** | Formaggio e carne — Civitella Cesi | ✅ CONFERMATO — disponibile a collaborare; sostituisce Costantino |
 | **Nicolò Lenarda** | Partner / Board — asset multipli (olio, cavalli, asini, panonto) | ✅ IN BOARD |
 | **Totò** | Casa affitto + gnocchi + olive | DA VALIDARE |
-| **Miriam** (madre di Emiliano) | Affettati (tramite Emiliano) | contatto riscaldato — Emiliano DA VALIDARE operativamente |
+| **Miriam** (madre di Emiliano) | Affettati (tramite Emiliano) | ✅ Emiliano CONFERMATO per degustazioni |
 | Renzo | Lavorazione del cuoio (borse/cinte) | disponibilità alta — la dimostrazione potrebbe essere **gratuita**, dato che gli ospiti probabilmente acquisterebbero la sua merce dopo aver visto come la fa (vantaggioso per entrambi) |
 | Maneggio Civitella Cesi | Passeggiate a cavallo | possibile attività complementare/escursione — da contattare per capire disponibilità e modalità con piccoli gruppi |
 | Francesco Lierati | Da definire | da contattare |
@@ -108,4 +108,4 @@ Alla fine di questo giro di conversazioni, dovresti avere:
   - Olive — DA VALIDARE stagionalità
 
 ### MIRIAM (madre di Emiliano — affettati)
-- **Stato:** contatto riscaldato — Emiliano rimane DA VALIDARE operativamente
+- **Stato:** ✅ CONFERMATO — Emiliano disponibile per degustazioni dei suoi salumi artigianali con i visitatori

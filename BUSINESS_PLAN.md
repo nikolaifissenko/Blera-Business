@@ -17,14 +17,14 @@ Small-group immersive travel experiences in and around Blera (northern Lazio, It
 1. **Olive harvest** — the one genuine field/agricultural activity we can reliably count on right now
 2. **Tomatoes / "sauce day" (August)** — confirmed reliably available; Maria Grazia is confident this can happen even if she has to plant the tomatoes herself 😂 — a strong, low-risk anchor for the August departure
 3. ~~**Costantino — cheese**~~ → **REPLACED by Davide Paolocci (Civitella Cesi)** — confirmed available: cheese and meat tasting, hands-on cheesemaking/curing with visitors, plus a nearby archaeological site visit. A complete half-day experience on its own. Tel: +39 327 752 2499.
-4. **Emiliano (Miriam's son) — cured meats/affettati** — to follow up directly with him: gauge his actual interest/availability, and critically, **whether demonstrations can run year-round or only in certain periods** (this affects how reliably we can build a trip around it).
+4. **Emiliano (Miriam's son) — cured meats/affettati** — ✅ CONFIRMED: available for degustations of his homemade charcuterie products with visitors.
 5. **Renzo — leatherwork / bag-making** — high availability, and a great economic model: **his demonstration could be offered for free**, since guests would likely buy his goods afterward — a win-win that needs no negotiation over a hosting fee. Reframed specifically around bag-making based on a direct market signal: when running tours in Rome, American guests consistently ask for an authentic Italian leather bag — a hands-on session making their own turns this into one of the most marketable single activities in the whole offer.
 6. **Horseback riding — Maneggio di Civitella Cesi** — a new candidate complementary activity/excursion (not town-based, but nearby); to contact and assess fit, availability, and how they'd handle small international groups.
 7. **Nicolò Lenarda — partner/board member** — asset multipli: degustazione olio ✅, azienda olearia (raccolta olive, DA VALIDARE stagionalità), 2 cavalli (DA VALIDARE logistica gruppi), compagna + asini per trekking (DA VALIDARE disponibilità), panonto a San Giovenale (DA VALIDARE formato + data).
 
 **New candidate itinerary — "Giornata Civitella Cesi":** cavalli (Centro Ippico San Giovenale o Nicolò) + lavorazione/degustazione formaggio e carne con Davide Paolocci + visita sito etrusco. A strong full-day package combining outdoor activity, artisan food, and archaeology — all within the Civitella Cesi area.
 
-This is the **real, evolving starting program** — built from direct conversations with the people involved, adjusted as we learn more (e.g., losing Costantino, confirming tomatoes, clarifying Emiliano's and the maneggio's availability). The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
+This is the **real, evolving starting program** — built from direct conversations with the people involved, adjusted as we learn more (e.g., losing Costantino, confirming tomatoes, confirming Emiliano's charcuterie degustations, clarifying the maneggio's availability). The rest of the seasonal calendar remains a longer-term ambition to validate and add over time (see Phase 5), not a launch requirement.
 
 **Year-round agricultural calendar — candidate activities to validate (not a finished program):**
 - **March–June:** wild asparagus foraging in the Tuscia woods (a real, still-living local Easter-season tradition — strong candidate), spring planting
@@ -41,7 +41,7 @@ This is the **real, evolving starting program** — built from direct conversati
 
 **Artisan experiences (not seasonal — can anchor or complement a trip year-round, and don't depend on agricultural timing or a "Nonna"; among the most reliable building blocks of the offer):**
 - **A half-day with Davide Paolocci (Civitella Cesi)** — cheese and meat tasting + hands-on production with visitors + nearby archaeological site; ✅ CONFIRMED as Costantino's replacement
-- A visit with Emiliano (Miriam's son) — affettati/cured meats — seeing how salumi are made and cured the traditional way, with a tasting (availability and year-round feasibility to be confirmed directly with him)
+- **A visit with Emiliano (Miriam's son) — affettati/cured meats** — degustazione of his homemade charcuterie products; ✅ CONFIRMED
 - A hands-on bag-making session with Renzo — guests make and take home their own leather bag or belt, hand-worked under his guidance (potentially offered free of charge, with guests purchasing his goods afterward — a natural win-win)
 
 These artisan experiences are especially valuable right now: they're **available year-round, don't depend on agricultural seasons or a specific elderly host, and the people are already identified** (see `CONTATTI_LOCALI.md`). They should likely anchor the first pilot, while the agricultural activities are validated one at a time.
@@ -86,7 +86,7 @@ These aren't separate attractions to manage — they're moments the town already
 
 ### Phase 1 — Validate and design the offer (1–2 months)
 1. **Validate activities one by one before designing around them** — go through the candidate calendar above and confirm, for each: is there a real person willing to host it, what would they expect to be paid, and how often could they realistically do it? Drop or reframe anything that doesn't check out (this is where Maria Grazia's local knowledge is essential — she already flagged several to look at carefully: vendemmia, pig butchering, wheat harvest, "Nonna").
-2. Start the pilot design from the **most reliable building blocks already identified** — the artisan experiences (Renzo/leather bag-making, Emiliano/affettati once confirmed), which don't depend on season or a hard-to-find host. Pick ONE to anchor the first pilot, plus the tomato/sauce-day activity (now confirmed reliably available — Maria Grazia is willing to plant the tomatoes herself if needed) for the agricultural anchor.
+2. Start the pilot design from the **most reliable building blocks already identified** — the artisan experiences (Renzo/leather bag-making, Emiliano/affettati — both confirmed), which don't depend on season or a hard-to-find host. Pick ONE to anchor the first pilot, plus the tomato/sauce-day activity (now confirmed reliably available — Maria Grazia is willing to plant the tomatoes herself if needed) for the agricultural anchor.
 3. Map out exactly what a 3-day pilot itinerary looks like hour by hour: who hosts, where guests sleep, what they eat, what they do.
 4. Identify and informally confirm 2–3 willing local hosts/artisans and 1–2 BnB/hotel partners for lodging — and agree on **fair compensation with each of them up front** (not as an afterthought).
 5. **Get an insurance quote for guest participation in hands-on activities** before running anything live — this is a real cost and a real liability question, not optional (loop in the commercialista/insurer early).
