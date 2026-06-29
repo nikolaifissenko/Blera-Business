@@ -98,8 +98,8 @@ These aren't separate attractions to manage — they're moments the town already
 3. Debrief afterward: what worked, what guests loved/struggled with, what needs to change operationally.
 
 ### Phase 3 — Build your presence and first paying customers (parallel with Phase 2)
-1. Build a simple website/landing page: the story, the seasonal calendar, photos from the pilot, an inquiry form.
-2. Set up booking/inquiry handling (can start as simple as email + a calendar; no need for complex software yet).
+1. ~~Build a simple website/landing page~~ — **DONE**: live at https://nikolaifissenko.github.io/Blera-Business/ with activity picker, Formspree form, auto-translation (6 languages), Etruscan brand identity.
+2. Set up booking/inquiry handling (can start as simple as email + a calendar; no need for complex software yet). Formspree delivers submissions to email — operational now.
 3. Launch on 1–2 channels where your target audience already is (e.g., Instagram, a niche travel forum/newsletter, partnerships with small culinary/cultural tour aggregators).
 4. Get your first 1–3 *paying* groups booked from the pilot's momentum and word of mouth.
 
@@ -118,10 +118,49 @@ These aren't separate attractions to manage — they're moments the town already
 2. Grow *income*, not volume: raise prices as reputation builds, add premium/exclusive departures, multi-region itineraries, and off-season-style extras (merchandise, virtual experiences) — see growth levers in `FINANCIAL_PLAN.md`.
 3. Be selective about which travel partners and guests you take on, prioritizing fit over scale.
 
-## 6. Immediate next actions (this month)
+## 6. Current status (June 2026)
 
-1. Talk to Maria Grazia — align on roles and write down the basics of your partnership.
-2. Pick the pilot experience (recommend tomato sauce, given timing — it's nearly August now).
-3. List 3 local families/artisans and 2 BnBs you could realistically approach this week.
-4. Sketch the pilot itinerary and rough-cost it.
-5. Identify 4–8 people you could invite to a pilot trip in the next 2–3 months.
+**Landing page is LIVE:** https://nikolaifissenko.github.io/Blera-Business/
+- Deployed via GitHub Pages (branch-based deploy from `main`)
+- Form submissions via Formspree (https://formspree.io/f/xlgynpjo)
+- Auto-translates to visitor's browser language (EN, IT, DE, FR, ES, NL)
+- Etruscan-inspired brand identity (terracotta, earth tones, Cormorant Garamond)
+
+**Activities on the landing page (client-facing, finalized):**
+
+*Farm & Field:*
+- Olive Harvest — morning picking, then to the mill, take the oil home
+- Tomato & Sauce Day — August passata tradition
+- Grape Harvest — vendemmia + cantina visit, take a bottle from the previous year
+- Wild Asparagus Foraging — spring/Easter tradition
+
+*Artisan & Food:*
+- Charcuterie Degustation (Emiliano — confirmed)
+- Cheese & Charcuterie in Civitella Cesi (Davide Paolocci — confirmed)
+- Pasta Making — homemade, hands-on
+
+*Culture & Outdoors:*
+- Cammino dei Tre Villaggi — 20 km circular trail (Blera, Barbarano Romano, Villa San Giovanni), "Etruscan Wanderer" certificate
+- San Giovenale Hike & Panonto — Etruscan site + traditional Bleran wood-fire BBQ picnic
+- Horseback Riding (Civitella Cesi)
+
+*Day Trips:*
+- Lago di Vico, Viterbo, Tarquinia, Villa Lante & Palazzo Farnese, Tyrrhenian Coast, + client's own choice
+
+**What's NOT on the landing page (included by default):**
+- Every meal is traditional home-cooked with local/seasonal ingredients (stated in intro, not an option to select)
+- Local festivals / sagre — if one is happening during the visit, guests are taken (stated in intro)
+
+**Removed from client-facing page:**
+- Renzo (leather) — removed from landing page options
+- Hazelnut harvest — removed
+- Oil tasting as standalone — folded into olive harvest experience
+- Nicolò's name — removed from client-facing (still partner/board)
+
+## 7. Immediate next actions
+
+1. Monitor Formspree inbox for first client inquiries.
+2. Pick the pilot experience (recommend tomato sauce for August, or olive harvest for Oct–Dec).
+3. Finalize lodging partners (Beccone, Antonella, others from CONTATTI_LOCALI.md).
+4. Get insurance quote for guest participation in hands-on activities.
+5. Sketch the pilot itinerary hour-by-hour and rough-cost it.
