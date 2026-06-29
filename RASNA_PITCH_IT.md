@@ -30,7 +30,7 @@ Da soli, nessuno dei due potrebbe farlo. Insieme, è un progetto completo.
 
 1. 🫒 **Raccolta delle olive** — l'unica attività di campagna su cui possiamo contare fin da subito
 2. 🍅 **Pomodoro e giornata della salsa (agosto)** — confermata: anche piantando i pomodori appositamente, se necessario, è un'attività su cui si può contare
-3. 🥓 **Emiliano (figlio di Miriam) — affettati** — da risentire per capire quanto sarebbe interessato e se le dimostrazioni si possono organizzare tutto l'anno o solo in certi periodi
+3. 🥓 **Emiliano (figlio di Miriam) — affettati** — ✅ CONFERMATO: disponibile per degustazioni dei suoi prodotti di salumeria artigianale con i visitatori
 4. 👜 **Renzo — laboratorio di borse in pelle** — un'idea nata da un'osservazione concreta: nei tour a Roma, gli americani chiedono sempre una borsa di pelle italiana autentica. Far realizzare agli ospiti la propria borsa con Renzo trasforma una semplice "visita all'artigiano" in esattamente il tipo di esperienza-souvenir che questo pubblico già desidera. In più, la sua dimostrazione potrebbe essere **gratuita**: gli ospiti probabilmente acquisterebbero la sua merce dopo aver visto come la realizza — un vantaggio per entrambi
 5. 🐴 **Passeggiate a cavallo — Maneggio di Civitella Cesi** — possibile attività complementare, da contattare per valutare disponibilità con piccoli gruppi
 
@@ -52,7 +52,7 @@ Un viaggio di **4 giorni, in piccoli gruppi (6–10 persone)**, può comunque cr
 - **Gennaio–Maggio (inverno-primavera)** — Raccolta dei carciofi (Carciofo Romanesco IGP) e cucina tipica della stagione
 
 **Esperienze artigianali — il punto di partenza più solido:** non dipendono da una stagione né da una persona difficile da trovare, e le persone sono già individuate. Sono probabilmente la base più sicura su cui costruire il primo viaggio pilota:
-- Una visita con Emiliano — scoprire come si preparano e si stagionano gli affettati secondo la tradizione, con degustazione (disponibilità e periodi da confermare con lui)
+- **Una visita con Emiliano** — degustazione dei suoi salumi artigianali fatti in casa; ✅ CONFERMATO
 - Un laboratorio con Renzo — gli ospiti realizzano con le proprie mani, sotto la sua guida, una borsa di pelle da portare a casa (potenzialmente offerto gratuitamente, dato che gli ospiti probabilmente acquisterebbero anche la sua merce)
 
 In questo modo, **non esiste un "periodo morto"**: ogni mese dell'anno ha una sua attività agricola autentica da offrire, e possiamo costruire un calendario di viaggi distribuito lungo tutti i 12 mesi, anziché concentrato in poche settimane.
